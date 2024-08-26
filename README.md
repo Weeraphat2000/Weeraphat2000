@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Weeraphat Yian</h1>
-<h3 align="center">I’m interested in full-stack / back-end. Though my academic background lies in Mechanical Engineering, my passion for problem-solving and technology naturally gravitated towards the dynamic realms of web development and business intelligence. This curiosity led me to explore Python programming, igniting a strong interest that ultimately propelled me to enroll in a comprehensive Full Stack JavaScript course at Software Park Thailand Code Camp.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
